@@ -1,3 +1,10 @@
+/*
+        10
+      9 10
+    8 9 10
+  7 8 9 10
+6 7 8 9 10 
+*/
 #include <stdio.h>
 
 int main(void)
