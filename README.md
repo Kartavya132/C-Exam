@@ -1,8 +1,7 @@
 <h2 style = "font-color = blue;">C program</h2>
-<hr>
 
 This repository contains simple C programs based on arrays, functions, pointers, conditions, and nested loops.
-
+<hr>
 Questions
 1 Find average and grade of a student using 5 subject marks.<br>
 2 Find average of all elements in a 2D array using a function.<br>
